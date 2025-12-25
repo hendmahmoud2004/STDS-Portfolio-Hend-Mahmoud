@@ -1,5 +1,9 @@
 # Task B: Transformation Logic & Business Rules
 
+### Detailed Rules
+![Transformation Rules](images/TransformationRules.png)
+
+
 ## Rule 1: Unit Standardization
 - **Logic:** If unit = "W", divide by 1000 → convert to "kW"
 - **Reason:** Ensures consistent units across all records.
