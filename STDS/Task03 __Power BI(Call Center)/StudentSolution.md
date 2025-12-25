@@ -91,8 +91,8 @@ All project-related files are included in this folder:
 
 | File Type | Description | Link |
 | :--- | :--- | :--- |
-| **Power BI Report** | Full interactive dashboard file (`.pbix`) | [Download Here](./Call_Center_Analysis.pbix) |
-| **Dataset** | Raw call center records (`.csv`) | [View Data](./Call_Center_Data.csv) |
+| **Power BI Report** | Full interactive dashboard file (`.pbix`) | [Download Here](./Call_Center_Analysis.pbix.pbix) |
+| **Dataset** | Raw call center records (`.csv`) | [View Data](./Call_Center_Data.csv.csv) |
 | **Screenshots** | High-resolution dashboard previews | [View Folder](./Screenshots/) |
 
 ---
