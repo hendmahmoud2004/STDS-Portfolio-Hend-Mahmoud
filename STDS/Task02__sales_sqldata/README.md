@@ -93,7 +93,7 @@ The final report consists of three specialized sheets:
 ## 📦 Project Deliverables
 * 📜 **[Sales_SQLQuery1.sql](./Sales_SQLQuery1.sql)** — Full SQL pipeline script.
 * 📊 **[Sales_Analytics_Report.xlsx](./sales_sqldata%20(version%201).xlsx)** — Final Excel Dashboard.
-
+* 🖼️ **![Sales Dashboard Preview](Dashboard_Screenshot.png)** _ Dashboard Preview
 ---
 
 ## 📝 Student Reflection
