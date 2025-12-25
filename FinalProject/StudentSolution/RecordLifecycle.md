@@ -1,5 +1,6 @@
 # Task C: Single Record Lifecycle Explanation
-
+### Lifecycle
+![Lifecycle Explanation](images/RecordLifecycle.png)
 Example: Meter #123, 10:00 AM, 3000 W
 
 1. **Upload:** CSV file sent to Raw Storage.
