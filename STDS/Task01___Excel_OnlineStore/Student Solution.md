@@ -82,12 +82,16 @@ A professional Excel dashboard was created, including:
 
 ### 📎 Dashboard Preview
 
-> Inserted as uploaded screenshots:
+> Here are the screenshots of the final dashboard designed to monitor peak energy usage and meter health.
 
-- **Dashboard_Screenshot1.png**  
-- **Dashboard_Screenshot2.png**
+#### 1. Dashboard1
+![Dashboard Screenshot 1](Dashboard_Screenshot1.png)
 
----
+#### 2. Dashboard2
+![Dashboard Screenshot 2](Dashboard_Screenshot2.png)
+
+#### 3. Dashboard3
+![Dashboard Screenshot 3](Dashboard_Screenshot3.png)
 
 ## 📁 Project Files (Student Solution)
 
