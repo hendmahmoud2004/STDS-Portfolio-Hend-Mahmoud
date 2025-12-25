@@ -14,6 +14,8 @@ To provide a high-level summary of overall sales performance.
 - Monthly sales trends to identify seasonality.
 - Comparison between different product categories.
 - Identification of top-selling products.
+### Dashboard Preview
+![Sales Overview Dashboard](sales_overview_dashboard.png)
 
 ---
 
@@ -26,7 +28,8 @@ To analyze sales distribution and performance across different regions.
 - Regional contribution to total revenue.
 - Trend analysis per region.
 - Interactive filtering by region and category.
-
+### Dashboard Preview
+![Regional Sales Dashboard](regional_sales_dashboard.png)
 ---
 
 ## Dashboard 3: Product Performance Analysis
@@ -38,6 +41,8 @@ To evaluate individual product performance and identify strengths and weaknesses
 - Sales and revenue by product and category.
 - Product contribution to overall sales.
 - Drill-down analysis for detailed exploration.
+### Dashboard Preview
+![Product Performance Dashboard](product_performance_dashboard.png)
 
 ---
 
